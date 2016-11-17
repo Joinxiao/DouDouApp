@@ -7,6 +7,8 @@ import android.content.SharedPreferences;
  * Simple to Introduction
  *
  * @Description: 参数偏好工具类
+ *
+ *
  * @Author: 原海忠
  * @CreateDate: 2016/11/7
  * @Version: [v1.0]
